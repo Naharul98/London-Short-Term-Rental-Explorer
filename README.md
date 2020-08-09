@@ -11,10 +11,9 @@
 - Filtering properties within the user's budget.
 - The clickable icon on each borough is automatically resized to represent number of available rentals in the borough.
 - Useful statistics and info
- - such as median price, average ratings etc.
- - The most expensive place to rent and 
- -other useful information which gives the user suggestions
-</br>
+  - such as median price, average ratings etc.
+  - The most expensive place to rent and 
+  -other useful information which gives the user suggestions
 
 ### Libraries Used
 - [Weka](https://sourceforge.net/projects/weka/)
