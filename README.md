@@ -1,13 +1,8 @@
 # London-Short-Term-Rental-Explorer
 
-
-
-# London Properties Map
-This is the Assignment 4 for Programming practise and Application (4CS1PPA), Developed by Team Mercuial 
-
 </br>
 
-## Installation 
+## Running the Project 
 
 > For MacOS users, if the error such as "XXX" is missing or "XXX" is not found occurs when you run the project in BlueJ, Please restart the BlueJ and retry. There is a bug in MacOS BlueJ
 
