@@ -7,7 +7,7 @@
 
 - Aritifical Intellgence (Machine Learning)
   - Suggests the best type of rental for the user, based on a free range of inputs such as - budget, duration of rental, etc. 
-- Clickable icon on each borough on the London map to view rentals within the borough.
+- Clickable icon on each borough (on the map) to view rentals within the borough.
 - Filtering properties within the user's budget.
 - The clickable icon on each borough is automatically resized to represent number of available rentals in the borough.
 - Useful statistics and info
