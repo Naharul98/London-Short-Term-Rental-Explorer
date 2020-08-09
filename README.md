@@ -1,7 +1,5 @@
 # London-Short-Term-Rental-Explorer
 
-## Running the Project 
-
 ### Running the Project :
 - Create an object of the class named 'StartFrame'.
 
