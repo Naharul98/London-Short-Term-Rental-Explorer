@@ -5,15 +5,15 @@
 
 ### Features
 
-- Aritifical Intellgence (Machine Learning)
-  - Suggests the best type of rental for the user, based on a free range of inputs such as - budget, duration of rental, etc. 
-- Clickable icon on each borough (on the map) to view rentals within the borough.
-- Filtering properties within the user's budget.
-- The clickable icon on each borough is automatically resized to represent number of available rentals in the borough.
-- Useful statistics and info
-  - such as median price, average ratings etc.
-  - The most expensive place to rent and 
-  -other useful information which gives the user suggestions
+- Implements [Grounded Extension Algorithm](https://nms.kcl.ac.uk/sanjay.modgil/inf/ProofTheories_and_Algorithms.pdf) to label arguments according to their current position (Winning/Losing/Undecidable)
+- Visualizes debates in the form of an interactive directed graph
+    - Nodes represent individual arguments in the debate
+    - Edges in the graph reflect their attack relation (Which argument is challenging which)
+    - Nodes are highlighted according to their labelling by the algorithm (Winning: Green, Losing: Red, Undecidable: Grey)
+    - Hover over nodes to view the argument
+    - Hover over edges to view the argument structure used
+- A range of [Argumentation Schemes](https://www.reasoninglab.com/patterns-of-argument/argumentation-schemes/waltons-argumentation-schemes/) to choose from to allow people engaging in debates to make their arguments more clear and concise.
+
 
 ### Libraries Used
 - [Weka](https://sourceforge.net/projects/weka/)
